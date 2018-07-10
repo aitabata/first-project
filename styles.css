@@ -1,0 +1,32 @@
+body{
+  background-color: #CCCCFF;
+  font-family:"Arial";
+}
+
+a {
+  color: #0404ff;
+}
+
+a:hover {
+  color: #fccd05;
+}
+
+h1.decoration{
+  font-family:"Sawarabi Gothic";
+  margin: 20px;
+  padding-left: 40px;
+  font-weight: 900;
+}
+
+h2.decoration{
+  font-family:"Sawarabi Gothic";
+  margin: 20px;
+  padding-left: 40px;
+  font-weight: 700;
+}
+
+img {
+  vertical-align: bottom;
+  margin: 10px;
+  border: solid 10px #0000FF;
+}
